@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://jacomago.github.io/atom.xml" rel="self"/>
   <link href="http://jacomago.github.io/"/>
-  <updated>2014-01-03T16:36:57+00:00</updated>
+  <updated>2014-01-03T16:45:33+00:00</updated>
   <id>http://jacomago.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Making Some Noise]]></title>
+    <link href="http://jacomago.github.io/blog/2014/01/03/making-some-noise/"/>
+    <updated>2014-01-03T16:44:11+00:00</updated>
+    <id>http://jacomago.github.io/blog/2014/01/03/making-some-noise</id>
+    <content type="html"><![CDATA[<p>Somehow I find that working on my laptop always leads to interesting bu tnot useful developments. :)</p>
+]]></content>
+  </entry>
   
 </feed>
