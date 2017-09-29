@@ -38,20 +38,22 @@
 
 </footer><!-- /.post-info -->      <p>Approximation of real numbers is a classical problem leading back to
 the Ancient Greeks and Diophantus himself. For example, it was known
-since the days of Archimedes that $22/7$ is a good approximation to
-$\pi$, and $99/70$ for $\sqrt{2}$. Indeed, due the rationals
+since the days of Archimedes that <span class="math">\(22/7\)</span> is a good approximation to
+<span class="math">\(\pi\)</span>, and <span class="math">\(99/70\)</span> for <span class="math">\(\sqrt{2}\)</span>. Indeed, due the rationals
 being dense in the reals, we know that it is possible to arbitrarily
 approximate any real number by rationals. However, classical
 Diophantine approximation is about how ``fast'' we can do
-so. Explicitly, the object of interest is, for $x \in \mathbb R$ the size of
-\begin{equation}
+so. Explicitly, the object of interest is, for <span class="math">\(x \in \mathbb R\)</span> the size of
+</p>
+<div class="math">\begin{equation}
   \label{eq:dist}
   \left|x- \frac{p}{q}\right| \qquad \text{ for } p \in \mathbb Z
   \text{ and } q \in \mathbb N,
-\end{equation}
-as a function of $q$.</p>
+\end{equation}</div>
+<p>
+as a function of <span class="math">\(q\)</span>.</p>
 <p>A simple observation is that by the
-spread of a fraction $1/q$, there is a bound of $1/(2q)$ on
+spread of a fraction <span class="math">\(1/q\)</span>, there is a bound of <span class="math">\(1/(2q)\)</span> on
 \eqref{eq:dist}. However, we will see that there are multiple ways to
 improve on that bound. For some of the most up to date results,  V. Beresnevich,
 F. Ram{\'\i}rez and S. Velani \cite{durham} have written a
@@ -60,20 +62,20 @@ substantial overview of the area.</p>
 The most fundamental result of Diophantine approximation is
 Dirichlet's Theorem, which can be found in the overview
 \cite{durham}.</p>
-<p>\begin{thm}[Dirichlet's Theorem 1842]\label{dirichlets-thm*}
+<div class="math">\begin{thm}[Dirichlet's Theorem 1842]\label{dirichlets-thm*}
   For all $ x \in \mathbb R \setminus \mathbb Q$ and $N \in \mathbb N$
   there exists $(p,q) \in \mathbb Z \times \mathbb N$ such that
-  [
+  \[
     \left| x - \frac{p}{q} \right|\leq \frac{1}{q N} \qquad \text{ and
     } \qquad q&lt; N.
-  ]
-\end{thm}</p>
+  \]
+\end{thm}</div>
 <p>Dirichlet first proved this result in 1842 using the <code>pigeonhole
 principle''. The principle states that if $n$ objects are placed in
 $n-1$ boxes then at least one box must contain at least two
 objects. Dirichlet's Theorem shows that the $1/(2q)$ can be
 significantly improved upon. In fact it also tells us about the</code>speed'' at which irrationals can be approximated by rationals.</p>
-<p>\begin{cor}\label{cor:infmanydir}
+<div class="math">\begin{cor}\label{cor:infmanydir}
   For all $ x \in \mathbb R \setminus \mathbb Q$ there exists
   infinitely many (i.m.) pairs $(p,q) \in \mathbb Z \times \mathbb N$
   such that
@@ -81,34 +83,93 @@ significantly improved upon. In fact it also tells us about the</code>speed'' at
     \label{eq:dirichletmany}
     \left| x - \frac{p}{q} \right|\leq \frac{1}{q^2}.
   \end{equation}
-\end{cor}</p>
+\end{cor}</div>
 <p>\subsubsection{Continued Fractions}\label{sec:contf}</p>
-<p>Given a real number $x$, we can find a sequence of natural numbers
-$a_0, a_1 , a_2, \dots$ such that
-\begin{equation}
+<p>Given a real number <span class="math">\(x\)</span>, we can find a sequence of natural numbers
+<span class="math">\(a_0, a_1 , a_2, \dots\)</span> such that
+</p>
+<div class="math">\begin{equation}
   \label{eq:contf}
   x = a_0+\cfrac{1}{a_1+\cfrac{1}{a_2+\cfrac{1}{a_3+\dots}}}
-\end{equation}
-We call this sequence \emph{the continued fraction expansion} of $x$, for
-simplicity we write it as $x = [a_0; a_1, a_2, \dots ]$. We call $a_k$
-the \emph{$k$th partial quotient of $x$} and the rational
-$p_k/q_k = [a_0;a_1, a_2 ,\dots, a_k]$ is called the \emph{$k$th
-  convergent of $x$}. The $p_k/q_k$ turn out to be the ``best''
-approximations of $x$, in the sense that they satisfy Dirichlet's
+\end{equation}</div>
+<p>
+We call this sequence \emph{the continued fraction expansion} of <span class="math">\(x\)</span>, for
+simplicity we write it as <span class="math">\(x = [a_0; a_1, a_2, \dots ]\)</span>. We call <span class="math">\(a_k\)</span>
+the \emph{<span class="math">\(k\)</span>th partial quotient of <span class="math">\(x\)</span>} and the rational
+<span class="math">\(p_k/q_k = [a_0;a_1, a_2 ,\dots, a_k]\)</span> is called the \emph{<span class="math">\(k\)</span>th
+  convergent of <span class="math">\(x\)</span>}. The <span class="math">\(p_k/q_k\)</span> turn out to be the ``best''
+approximations of <span class="math">\(x\)</span>, in the sense that they satisfy Dirichlet's
 Theorem. For full details and the rest of the statements in this
 subsection see Hardy and Wright~\cite{hardy2008introduction}.</p>
 <p>The \emph{basic method} for calculating the continued fraction expansion of a
 real number is in essence the Euclidean algorithm for the computation
-of the greatest common divisor of two integers. If $x$ is a real
-number, then the sequence of partial quotients $(a_n)$ for $x$ are
+of the greatest common divisor of two integers. If <span class="math">\(x\)</span> is a real
+number, then the sequence of partial quotients <span class="math">\((a_n)\)</span> for <span class="math">\(x\)</span> are
 found by the iteration
-\begin{equation}\label{eq:basicmethod}
+</p>
+<div class="math">\begin{equation}\label{eq:basicmethod}
   \alpha_0 = x, \quad a_0 = \lfloor x \rfloor, \quad \alpha_{n+1} =
   \frac{1}{\alpha_n - a_n}, \quad a_{n+1} = \lfloor \alpha_{n+1}
   \rfloor, \quad n = 0,1,2, \dots.
-\end{equation}
-The process terminates if $a_n = \alpha_n$, which happens if and only if
-$x$ is a rational.</p>
+\end{equation}</div>
+<p>
+The process terminates if <span class="math">\(a_n = \alpha_n\)</span>, which happens if and only if
+<span class="math">\(x\)</span> is a rational.</p>
+<script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width < 768) ? "left" : align;
+        indent = (screen.width < 768) ? "0em" : indent;
+        linebreak = (screen.width < 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+</script>
     </div><!-- /.entry-content -->
 
   </article>
