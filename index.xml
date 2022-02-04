@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sky</title>
+    <link>http://www.jacomago.dev/</link>
+    <description>Recent content on Sky</description>
+    <image>
+      <url>http://www.jacomago.dev/paint_splatter.png</url>
+      <link>http://www.jacomago.dev/paint_splatter.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Feb 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://www.jacomago.dev/about/</link>
+      <pubDate>Fri, 04 Feb 2022 11:02:56 +0100</pubDate>
+      
+      <guid>http://www.jacomago.dev/about/</guid>
+      <description>Hi there.
+I&amp;rsquo;m Sky Brewer, a software developer currently attempting to be a &amp;lsquo;creative&amp;rsquo; in too many ways.</description>
+    </item>
+    
+    <item>
+      <title>Beginning Generative Art</title>
+      <link>http://www.jacomago.dev/post/gen_art_history/</link>
+      <pubDate>Fri, 04 Feb 2022 11:02:56 +0100</pubDate>
+      
+      <guid>http://www.jacomago.dev/post/gen_art_history/</guid>
+      <description>Recently I started making generative art with nannou.
+It made me think about when I first got interested. I can remember as a child in Primary school - 5- 11 year old - being tasked to make diagrams like this:
+I can also remember in Year three - age eight - in art class and being given the proejct of filling an A4 page of square boxes with different patterns and being one of the few in the class to have finished the project.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://www.jacomago.dev/cv/</link>
+      <pubDate>Fri, 04 Feb 2022 11:02:56 +0100</pubDate>
+      
+      <guid>http://www.jacomago.dev/cv/</guid>
+      <description>Software Engineer based in Skåne, Sweden LinkedIn / GitHub
+Currently working on expanding front end skills. Previously worked large fintech (Avaloq), developing Oracle solutions in the area of Portfolio Management. Hold a Doctorate in Mathematics and have commercial experience in software development for building management systems (BMS) (Airedale). Looking for new software development roles remotely in the EU.
+Timeline Software Engineer @ Avaloq (Nov 2017 - Oct 2020)
+ Working in the portfolio management team for a global fintech at the Edinburgh based development centre, under an Agile framework utilising a daily kanban, retrospectives and planning meetings.</description>
+    </item>
+    
+  </channel>
+</rss>

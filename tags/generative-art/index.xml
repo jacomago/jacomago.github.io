@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>generative art on Sky</title>
+    <link>http://www.jacomago.dev/tags/generative-art/</link>
+    <description>Recent content in generative art on Sky</description>
+    <image>
+      <url>http://www.jacomago.dev/paint_splatter.png</url>
+      <link>http://www.jacomago.dev/paint_splatter.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Feb 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/generative-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginning Generative Art</title>
+      <link>http://www.jacomago.dev/post/gen_art_history/</link>
+      <pubDate>Fri, 04 Feb 2022 11:02:56 +0100</pubDate>
+      
+      <guid>http://www.jacomago.dev/post/gen_art_history/</guid>
+      <description>Recently I started making generative art with nannou.
+It made me think about when I first got interested. I can remember as a child in Primary school - 5- 11 year old - being tasked to make diagrams like this:
+I can also remember in Year three - age eight - in art class and being given the proejct of filling an A4 page of square boxes with different patterns and being one of the few in the class to have finished the project.</description>
+    </item>
+    
+  </channel>
+</rss>
