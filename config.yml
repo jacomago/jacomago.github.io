@@ -47,7 +47,7 @@ params:
     apple_touch_icon: "apple-touch-icon.png"
 
   label:
-    text: "@jacomago"
+    text: "Sky"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
