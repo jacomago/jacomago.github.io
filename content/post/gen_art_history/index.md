@@ -13,7 +13,7 @@ It made me think about when I first got interested. I can remember as a child in
 
 ![Line splines](IMG_20220204_091333.jpg)
 
-I can also remember in Year three - age eight - in art class and being given the proejct of filling an A4 page of square boxes with different patterns and being one of the few in the class to have finished the project.
+I can also remember in Year three - age eight - in art class and being given the project of filling an A4 page of square boxes with different patterns and being one of the few in the class to have finished the project.
 
 ![Patterned Squares](IMG_20220204_093750.jpg)
 
