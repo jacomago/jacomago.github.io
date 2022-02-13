@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Masters subject</title>
+      <link>http://www.jacomago.dev/post/undergrad_history/</link>
+      <pubDate>Sun, 13 Feb 2022 11:02:56 +0100</pubDate>
+      
+      <guid>http://www.jacomago.dev/post/undergrad_history/</guid>
+      <description>I found another couple of interesting images from my masters.
+They represent cycles orthogonal to a single cycle. A cycle is a representation of all numbers equidistant from a complex or double number (numbers of the form x + yj, where j squared is one).
+Here are double cycles orthogonal to the x axis.</description>
+    </item>
+    
     <item>
       <title>Beginning Generative Art</title>
       <link>http://www.jacomago.dev/post/gen_art_history/</link>
