@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Mar 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>writing</title>
+      <link>http://www.jacomago.dev/tags/writing/</link>
+      <pubDate>Fri, 11 Mar 2022 11:02:56 +0100</pubDate>
+      
+      <guid>http://www.jacomago.dev/tags/writing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>generative art, creative coding</title>
       <link>http://www.jacomago.dev/tags/generative-art-creative-coding/</link>
