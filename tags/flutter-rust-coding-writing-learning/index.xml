@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>flutter, rust, coding, writing, learning on Sky</title>
+    <link>http://www.jacomago.dev/tags/flutter-rust-coding-writing-learning/</link>
+    <description>Recent content in flutter, rust, coding, writing, learning on Sky</description>
+    <image>
+      <url>http://www.jacomago.dev/paint_splatter.png</url>
+      <link>http://www.jacomago.dev/paint_splatter.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/flutter-rust-coding-writing-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story Stains: An Idea forms</title>
+      <link>http://www.jacomago.dev/post/story_stains_idea_forms/</link>
+      <pubDate>Tue, 21 Jun 2022 11:02:56 +0100</pubDate>
+      
+      <guid>http://www.jacomago.dev/post/story_stains_idea_forms/</guid>
+      <description>For the last month or so I&amp;rsquo;ve been working on Story Stains, an app to help analyze stories and find out how they tick.
+The past year or so I&amp;rsquo;ve been attempting to write my own stories and in this journey I&amp;rsquo;ve learnt the necessity to understand how they work. First, from a course on writing I took from Faber, and secondly from multiple &amp;lsquo;how to write books&amp;rsquo;. I&amp;rsquo;ve written freeform reviews, structured reviews with template headings of &amp;lsquo;Characters&amp;rsquo;, &amp;lsquo;Setting&amp;rsquo;, &amp;lsquo;Theme&amp;rsquo;, &amp;lsquo;Mood&amp;rsquo;, &amp;lsquo;Pace&amp;rsquo;, and attempted to make a questionnaire: &amp;lsquo;What are the main themes?</description>
+    </item>
+    
+  </channel>
+</rss>
