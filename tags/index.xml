@@ -10,38 +10,74 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 13:30:48 +0200</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>flutter, rust, coding, writing, learning</title>
-      <link>http://www.jacomago.dev/tags/flutter-rust-coding-writing-learning/</link>
+      <title>actix</title>
+      <link>http://www.jacomago.dev/tags/actix/</link>
+      <pubDate>Wed, 29 Jun 2022 13:30:48 +0200</pubDate>
+      
+      <guid>http://www.jacomago.dev/tags/actix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>http://www.jacomago.dev/tags/coding/</link>
+      <pubDate>Wed, 29 Jun 2022 13:30:48 +0200</pubDate>
+      
+      <guid>http://www.jacomago.dev/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust-lang</title>
+      <link>http://www.jacomago.dev/tags/rust-lang/</link>
+      <pubDate>Wed, 29 Jun 2022 13:30:48 +0200</pubDate>
+      
+      <guid>http://www.jacomago.dev/tags/rust-lang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story Stains</title>
+      <link>http://www.jacomago.dev/tags/story-stains/</link>
+      <pubDate>Wed, 29 Jun 2022 13:30:48 +0200</pubDate>
+      
+      <guid>http://www.jacomago.dev/tags/story-stains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>http://www.jacomago.dev/tags/reading/</link>
       <pubDate>Tue, 21 Jun 2022 11:02:56 +0100</pubDate>
       
-      <guid>http://www.jacomago.dev/tags/flutter-rust-coding-writing-learning/</guid>
+      <guid>http://www.jacomago.dev/tags/reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
       <link>http://www.jacomago.dev/tags/writing/</link>
-      <pubDate>Fri, 11 Mar 2022 11:02:56 +0100</pubDate>
+      <pubDate>Tue, 21 Jun 2022 11:02:56 +0100</pubDate>
       
       <guid>http://www.jacomago.dev/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>generative art, creative coding</title>
-      <link>http://www.jacomago.dev/tags/generative-art-creative-coding/</link>
+      <title>creative coding</title>
+      <link>http://www.jacomago.dev/tags/creative-coding/</link>
       <pubDate>Sun, 13 Feb 2022 11:02:56 +0100</pubDate>
       
-      <guid>http://www.jacomago.dev/tags/generative-art-creative-coding/</guid>
+      <guid>http://www.jacomago.dev/tags/creative-coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>generative art</title>
       <link>http://www.jacomago.dev/tags/generative-art/</link>
-      <pubDate>Fri, 04 Feb 2022 11:02:56 +0100</pubDate>
+      <pubDate>Sun, 13 Feb 2022 11:02:56 +0100</pubDate>
       
       <guid>http://www.jacomago.dev/tags/generative-art/</guid>
       <description></description>

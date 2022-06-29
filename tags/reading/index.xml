@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>flutter, rust, coding, writing, learning on Sky</title>
-    <link>http://www.jacomago.dev/tags/flutter-rust-coding-writing-learning/</link>
-    <description>Recent content in flutter, rust, coding, writing, learning on Sky</description>
+    <title>reading on Sky</title>
+    <link>http://www.jacomago.dev/tags/reading/</link>
+    <description>Recent content in reading on Sky</description>
     <image>
       <url>http://www.jacomago.dev/paint_splatter.png</url>
       <link>http://www.jacomago.dev/paint_splatter.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/flutter-rust-coding-writing-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 11:02:56 +0100</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Story Stains: An Idea forms</title>
       <link>http://www.jacomago.dev/post/story_stains_idea_forms/</link>
