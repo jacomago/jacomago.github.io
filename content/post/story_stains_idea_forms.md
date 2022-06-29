@@ -2,7 +2,7 @@
 title: "Story Stains: An Idea forms"
 date: 2022-06-21T11:02:56+01:00
 draft: false
-tags: ["flutter, rust, coding, writing, learning"]
+tags: ["writing", "reading", "Story Stains"]
 ---
 
 For the last month or so I've been working on [Story Stains](https://github.com/jacomago/storystains), an app to help analyze stories and find out how they tick.
