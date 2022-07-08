@@ -17,7 +17,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Sky
   description: "Sky Brewer's personal blog on generative art, software development and writing."
-  keywords: [Blog, Portfolio, Generative Art, Nannou]
+  keywords: [Blog, Portfolio, Generative Art, Nannou, rust, flutter]
   author: Sky Brewer
   # author: ["Me", "You"] # multiple authors
   images: ["paint_splatter.png"]
