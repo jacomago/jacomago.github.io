@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>coding on Sky</title>
-    <link>http://www.jacomago.dev/tags/coding/</link>
-    <description>Recent content in coding on Sky</description>
+    <title>Flutter on Sky</title>
+    <link>http://www.jacomago.dev/tags/flutter/</link>
+    <description>Recent content in Flutter on Sky</description>
     <image>
       <url>http://www.jacomago.dev/paint_splatter.png</url>
       <link>http://www.jacomago.dev/paint_splatter.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jul 2022 11:11:53 +0000</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 11:11:53 +0000</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Story Stains: Frontend</title>
       <link>http://www.jacomago.dev/post/story_stains_frontend/</link>
@@ -20,18 +20,6 @@
       <description>Another post about building Story Stains, the previous one can be found at &amp;ldquo;Story Stains: Backend&amp;rdquo;.
 Flutter Last year I took a in Angular from udemy, but for this project as Angular appears to be slowly dying, I decided to use another possible Google deadhorse, Flutter.
 This time I didn&amp;rsquo;t use a book, or tutorial or such to start building the application. I somehow expected a quite prescriptive development experience, which was not what happened.</description>
-    </item>
-    
-    <item>
-      <title>Story Stains: The Backend</title>
-      <link>http://www.jacomago.dev/post/story_stains_backend/</link>
-      <pubDate>Wed, 29 Jun 2022 13:30:48 +0200</pubDate>
-      
-      <guid>http://www.jacomago.dev/post/story_stains_backend/</guid>
-      <description>Another post about building Story Stains, the previous one can be found at &amp;ldquo;Story Stains: An Idea forms&amp;rdquo;.
-Rust I like to follow trends as much as the next guy, so I&amp;rsquo;m writing the backend in rust.
-There were two main resources that I used:
-&amp;lsquo;Zero To Production In Rust&amp;rsquo; (zero2prod), a great book about building a backend service from scratch using actix. It&amp;rsquo;s what I based most of my server code on.</description>
     </item>
     
   </channel>

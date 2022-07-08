@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 13:30:48 +0200</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/story-stains/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 11:11:53 +0000</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/story-stains/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story Stains: Frontend</title>
+      <link>http://www.jacomago.dev/post/story_stains_frontend/</link>
+      <pubDate>Fri, 08 Jul 2022 11:11:53 +0000</pubDate>
+      
+      <guid>http://www.jacomago.dev/post/story_stains_frontend/</guid>
+      <description>Another post about building Story Stains, the previous one can be found at &amp;ldquo;Story Stains: Backend&amp;rdquo;.
+Flutter Last year I took a in Angular from udemy, but for this project as Angular appears to be slowly dying, I decided to use another possible Google deadhorse, Flutter.
+This time I didn&amp;rsquo;t use a book, or tutorial or such to start building the application. I somehow expected a quite prescriptive development experience, which was not what happened.</description>
+    </item>
+    
     <item>
       <title>Story Stains: The Backend</title>
       <link>http://www.jacomago.dev/post/story_stains_backend/</link>
