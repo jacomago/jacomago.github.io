@@ -15,7 +15,7 @@ Currently working on expanding front end skills. Previously worked large fintech
 
 **Software Engineer** @ [Avaloq](https://www.avaloq.com/) _(Nov 2017 - Oct 2020)_
 
-- Working in the portfolio management team for a global fintech at the Edinburgh based development centre, under an Agile framework utilising a daily kanban, retrospectives and planning meetings.
+- Working in the portfolio management team for a global fintech at the Edinburgh based development centre, under an Agile framework utilising a daily Kanban, retrospectives and planning meetings.
 - Technical owner of the modelling core codebase which involves managing code audits, new requests and maintenance. Brought about an increase in testing and code quality measurement to push up code coverage by over 30%.
 - Introduced higher product quality with development of new features, including different compensation algorithms, tree view of portfolio strategy and multiple performance optimisations.
 - Coordination with the customer led to a new co-developed feature, a new way of loading time series in memory in a legacy Oracle based product that increased system performance by over 90%.
@@ -45,4 +45,4 @@ Currently working on expanding front end skills. Previously worked large fintech
 **Mathematics Student** @ [University of Leeds](https://www.leeds.ac.uk) _(Sept 2008 - July 2012)_
 
 - MMath/BSc 1st with honours.
-- Developed Paper [Projecctive cross-ratio in hypercomplex numbers.](http://link.springer.com/article/10.1007/s00006-012-0335-7) - Published article in a the area of hypercomplex numbers and Mobius transformations.
+- Developed Paper [Projective cross-ratio in hypercomplex numbers.](http://link.springer.com/article/10.1007/s00006-012-0335-7) - Published article in a the area of hypercomplex numbers and Mobius transformations.

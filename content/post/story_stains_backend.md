@@ -2,7 +2,7 @@
 title: "Story Stains: The Backend"
 date: 2022-06-29T13:30:48+02:00
 draft: false
-tags: ["rust-lang", "coding", "actix", "Story Stains"]
+tags: ["rust", "coding", "actix", "Story Stains"]
 ---
 
 Another post about building [Story Stains](https://github.com/jacomago/storystains), the previous one can be found at ["Story Stains: An Idea forms"]({{< ref "post/story_stains_idea_forms">}}).
@@ -51,4 +51,4 @@ Another mistake is using actix or rust in the first place. I chose them because 
 
 I found this apparent when adding the emotion feature to the API and found I was writing a lot of repetitive code. I will aim to refactor it out and aim for DRY (don't repeat yourself), but I'm essentially writing part of an ORM. For a one man band or small start-up, that's a lot of work. 
 
-Before I felt quite skeptical about no-low-code backends like Firebase and it's competitors, but I can really feel it's appeal. The want to focus on business logic rather than application logic is high.
+Before I felt quite sceptical about no-low-code backends like Firebase and it's competitors, but I can really feel it's appeal. The want to focus on business logic rather than application logic is high.
