@@ -10,13 +10,49 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jul 2022 11:53:48 +0200</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 17:03:38 +0200</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>actix</title>
+      <link>http://www.jacomago.dev/tags/actix/</link>
+      <pubDate>Sat, 16 Jul 2022 17:03:38 +0200</pubDate>
+      
+      <guid>http://www.jacomago.dev/tags/actix/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>coding</title>
       <link>http://www.jacomago.dev/tags/coding/</link>
-      <pubDate>Fri, 08 Jul 2022 11:53:48 +0200</pubDate>
+      <pubDate>Sat, 16 Jul 2022 17:03:38 +0200</pubDate>
       
       <guid>http://www.jacomago.dev/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>http://www.jacomago.dev/tags/flutter/</link>
+      <pubDate>Sat, 16 Jul 2022 17:03:38 +0200</pubDate>
+      
+      <guid>http://www.jacomago.dev/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>http://www.jacomago.dev/tags/rust/</link>
+      <pubDate>Sat, 16 Jul 2022 17:03:38 +0200</pubDate>
+      
+      <guid>http://www.jacomago.dev/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story Stains</title>
+      <link>http://www.jacomago.dev/tags/story-stains/</link>
+      <pubDate>Sat, 16 Jul 2022 17:03:38 +0200</pubDate>
+      
+      <guid>http://www.jacomago.dev/tags/story-stains/</guid>
       <description></description>
     </item>
     
@@ -26,42 +62,6 @@
       <pubDate>Fri, 08 Jul 2022 11:53:48 +0200</pubDate>
       
       <guid>http://www.jacomago.dev/tags/dart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flutter</title>
-      <link>http://www.jacomago.dev/tags/flutter/</link>
-      <pubDate>Fri, 08 Jul 2022 11:53:48 +0200</pubDate>
-      
-      <guid>http://www.jacomago.dev/tags/flutter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Story Stains</title>
-      <link>http://www.jacomago.dev/tags/story-stains/</link>
-      <pubDate>Fri, 08 Jul 2022 11:53:48 +0200</pubDate>
-      
-      <guid>http://www.jacomago.dev/tags/story-stains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>actix</title>
-      <link>http://www.jacomago.dev/tags/actix/</link>
-      <pubDate>Wed, 29 Jun 2022 13:30:48 +0200</pubDate>
-      
-      <guid>http://www.jacomago.dev/tags/actix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rust-lang</title>
-      <link>http://www.jacomago.dev/tags/rust-lang/</link>
-      <pubDate>Wed, 29 Jun 2022 13:30:48 +0200</pubDate>
-      
-      <guid>http://www.jacomago.dev/tags/rust-lang/</guid>
       <description></description>
     </item>
     

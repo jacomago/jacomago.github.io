@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jul 2022 11:53:48 +0200</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 17:03:38 +0200</lastBuildDate><atom:link href="http://www.jacomago.dev/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story Stains: Full Stack Enums</title>
+      <link>http://www.jacomago.dev/post/story_stains_enums/</link>
+      <pubDate>Sat, 16 Jul 2022 17:03:38 +0200</pubDate>
+      
+      <guid>http://www.jacomago.dev/post/story_stains_enums/</guid>
+      <description>Another post about building Story Stains, the previous one can be found at &amp;ldquo;Story Stains: Frontend&amp;rdquo;.
+Enums Enums are a way of having multiple options programmatically, when a Boolean (true or false) isn&amp;rsquo;t expressive enough. Think traffic lights: Red, Orange, Green, Http Status Codes: Unauthorized, Not Found, OK,&amp;hellip;, and Countries: Germany, Poland, Great Britain, England? UK?&amp;hellip;
+Some things seem obviously able to fit into an Enum data type, until they don&amp;rsquo;t.</description>
+    </item>
+    
     <item>
       <title>Story Stains: Frontend</title>
       <link>http://www.jacomago.dev/post/story_stains_frontend/</link>
@@ -18,8 +29,8 @@
       
       <guid>http://www.jacomago.dev/post/story_stains_frontend/</guid>
       <description>Another post about building Story Stains, the previous one can be found at &amp;ldquo;Story Stains: Backend&amp;rdquo;.
-Flutter Last year I took a in Angular from udemy, but for this project as Angular appears to be slowly dying, I decided to use another possible Google deadhorse, Flutter.
-This time I didn&amp;rsquo;t use a book, or tutorial or such to start building the application. For one, I coulnd&amp;rsquo;t find a good up to date tutorial and I somehow expected a quite prescriptive development environment, which was not what happened.</description>
+Flutter Last year I took a in Angular from Udemy, but for this project as Angular appears to be slowly dying, I decided to use another possible Google dead-horse, Flutter.
+This time I didn&amp;rsquo;t use a book, or tutorial or such to start building the application. For one, I couldn&amp;rsquo;t find a good up to date tutorial and I somehow expected a quite prescriptive development environment, which was not what happened.</description>
     </item>
     
   </channel>
