@@ -6,7 +6,7 @@
 {% block content %}
 {% set section = get_section(path="archive/_index.md") %}
 <div class="posts">
-  {% for page in section.pages | slice(end=1) %}
+  {% for page in section.pages | slice(end=5) %}
     {{ article::listed_article(page=page)}}
   {% endfor %}
 </div>
