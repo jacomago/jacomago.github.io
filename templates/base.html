@@ -10,7 +10,7 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" href="/style.css" />
     <title>{% block headtitle %}Blog{% endblock headtitle %} - {{config.title}}</title>
-    
+    <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
   </head>
 
   <body>

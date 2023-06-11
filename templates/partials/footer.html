@@ -1,6 +1,8 @@
 <footer>
-    <p>Socials</p>
+    <p>Socials:
   {% for social in config.extra.socials %}
   <a href="{{ social.url }}" class="socialitem">{{ social.name }}</a>
-  {% endfor %}
+  {% endfor %}</p>
+  <p>Copyright ©2022-{{ now() | date(format="%Y") }} Sky Brewer</p>
+  
 </footer>
