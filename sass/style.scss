@@ -158,6 +158,14 @@ article h2 a:focus {
     color: $seconday-highlight;
 }
 
+.imgwrapper {
+    max-width: 80%;
+}
+
+.imgcaption {
+    text-align: center;
+}
+
 article img {
     max-width: 80%;
     display: block;
