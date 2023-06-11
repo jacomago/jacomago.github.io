@@ -1,0 +1,19 @@
+{% import "macros/article.html" as article %}
+
+
+
+{% extends "base.html" %} 
+
+{% block headtitle %}{{ page.title }}{% endblock headtitle %}
+{% block title %}{{ page.title }}{% endblock title%}
+{% block content %}
+
+<article class="post">
+  <p class="subtitle">
+    {{ article::article_info(page=page)}}
+
+  </p>
+
+  {{ page.content | safe }}
+</article>
+{% endblock content %}

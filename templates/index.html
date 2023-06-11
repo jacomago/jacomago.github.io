@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% import "macros/article.html" as article %}
+{% block headtitle %}Latest Posts{% endblock headtitle%}
+{% block title %}Latest Posts{% endblock title%}
+{% block content %}
+{% set section = get_section(path="archive/_index.md") %}
+<div class="posts">
+  {% for page in section.pages | slice(end=1) %}
+    {{ article::listed_article(page=page)}}
+  {% endfor %}
+</div>
+{% endblock content %}

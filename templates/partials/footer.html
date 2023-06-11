@@ -1,0 +1,6 @@
+<footer>
+    <p>Socials</p>
+  {% for social in config.extra.socials %}
+  <a href="{{ social.url }}" class="socialitem">{{ social.name }}</a>
+  {% endfor %}
+</footer>

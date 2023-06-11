@@ -1,0 +1,25 @@
+{% import "macros/article.html" as article %}
+
+
+
+{% extends "base.html" %}
+
+{% block headtitle %}{{ section.title }}{% endblock headtitle%}
+{% block title %}{{ section.title }}{% endblock title%}
+{% block content %}
+
+<!-- If you are using pagination, section.pages will be empty. You need to use the paginator object -->
+<div class="posts">
+  {% for page in paginator.pages %} 
+     {{ article::listed_article(page=page)}}
+     <hr>
+  {% endfor %}
+</div>
+<nav class="pagination">
+  {% if paginator.previous %}
+  <a class="previous" href="{{ paginator.previous }}">‹ Previous</a>
+  {% endif %} {% if paginator.next %}
+  <a class="next" href="{{ paginator.next }}">Next ›</a>
+  {% endif %}
+</nav>
+{% endblock content %}

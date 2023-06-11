@@ -1,0 +1,18 @@
+{% import "macros/article.html" as article %}
+
+{% extends "base.html" %} 
+
+
+{% block headtitle %}Tags{% endblock headtitle %}
+{% block title %}Tags{% endblock title%}
+{% block content %}
+<ul class="terms">
+    {% for term in terms %}
+    <li>
+        <a href="{{ term.permalink }}">
+        #{{ term.name }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+{% endblock content %}

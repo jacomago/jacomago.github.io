@@ -1,0 +1,17 @@
+{% import "macros/article.html" as article %}
+
+
+{% extends "base.html" %} 
+
+{% block headtitle %}Tag: #{{term.name}}{% endblock headtitle %}
+{% block title %}Tag: #{{term.name}}{% endblock title %}
+{% block content %}
+
+<!-- If you are using pagination, section.pages will be empty. You need to use the paginator object -->
+<div class="posts">
+  {% for page in term.pages %}  
+    {{ article::listed_article(page=page)}}
+
+  {% endfor %}
+</div>
+{% endblock content %}

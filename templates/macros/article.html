@@ -1,0 +1,29 @@
+
+{% macro article_info(page) %}
+<div class="article-info">
+      <strong>{{ page.date | date(format="%Y %B %d %H:%M") }}</strong>
+      <span class="readtime">{{page.reading_time}} minute read</span>
+      {% if page.taxonomies.tags %}
+      {% for tag in page.taxonomies.tags %}
+        <a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}" class="tag">#{{ tag }}</a>
+     {% endfor %}
+      {% endif %}</div>
+{% endmacro article_info %}
+
+
+{% macro listed_article(page) %}
+<article class="post">
+    <h2 class="list-post-title">
+    <a href="{{ page.permalink | safe }}">
+      {{ page.title }}
+    </a></h2>
+    <p class="subtitle">
+
+        {{ self::article_info(page=page)}}
+
+
+    </p>
+
+    {{ page.content | safe }}
+  </article>
+{% endmacro post_article %}

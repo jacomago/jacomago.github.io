@@ -1,0 +1,184 @@
+$white-color: #f8f8f8;
+$black-color: #1b1d1d;
+
+$light-blue-color:#4FF9FF;
+$medium-blue-color: #08bfc5;
+$dark-blue-color:#17868a;
+
+$light-orange-color:#fcae19;
+$medium-orange-color:#EB7931;
+$dark-orange-color:#9E3E02;
+
+$back-color:$white-color;
+
+$text-color:$black-color;
+
+$links-color: $medium-blue-color;
+
+$nav-back: $medium-orange-color;
+$nav-text: $white-color;
+$seconday-highlight: $medium-blue-color;
+$subtext-color:$medium-orange-color;
+$title-color: $black-color;
+$title-back-color: $white-color;
+$page-hover-color: $medium-orange-color;
+
+html {
+    font-family: sans-serif;
+}
+body {
+    margin: 0;
+    background:$back-color;
+    color: $text-color;
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+    display: block;
+}	
+
+.container {
+    max-width: 42em;
+    margin: 0 auto;
+}
+
+
+/* Headers */
+h1 {
+    font-size: 1.5em;
+    font-family: sans-serif;
+}
+
+h1 span {
+    padding: .1em;
+    color: $title-color;
+    background-color: $title-back-color;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+a {
+    color: $links-color;
+    text-decoration: none;
+}
+
+
+p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+/* Code */
+pre {
+    padding: 1em;
+    max-width: 100%;
+    overflow: auto;
+}
+
+code,
+pre,
+kbd {
+    font-family: monospace;
+    font-size: 0.90em;
+    line-height: 154%;
+}
+
+
+header {
+    display: block;
+    justify-content: space-between;
+    text-align: center;
+}
+
+header nav {
+    max-width: 100%;
+    text-align: left;
+    background:$nav-back;
+    padding: 0.5em 0;
+}
+
+header nav a {
+    margin-left: 1em;
+    color: $nav-text;
+}
+header nav a:hover,
+header nav a:focus {
+    border-bottom: 1px solid $back-color;
+}
+
+article {
+    padding-bottom: 1em;
+    font-family: serif;
+    font-size: 18px;
+}
+
+article h2 {
+    font-size: 1.1em;
+}
+article h2 a {
+    font-size: 1.2em;
+    color: $text-color;
+}
+
+article h2 a:active,
+
+article h2 a:hover {
+    outline: 0;
+}
+article h2 a:hover,
+article h2 a:focus {
+    color: $page-hover-color;
+    border-bottom: 1px solid $page-hover-color;
+}
+
+.article-info {
+
+    font-size: .9em;
+    margin-bottom: 1em;
+    color: $subtext-color;
+}
+.article-info a {
+
+    color: $seconday-highlight;
+}
+
+article img {
+    max-width: 80%;
+    display: block;
+    height: auto;
+    margin: 0 auto .5em;
+}
+
+footer {
+    border-top: thin solid #f1f1f1;
+    margin-top: 3em;
+    font-size: 16px;
+    padding: 1em;
+    text-align: center;
+}
+
+
+@media (max-width: 840px) {
+
+
+    .container {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+}
