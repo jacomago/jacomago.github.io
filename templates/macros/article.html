@@ -1,7 +1,7 @@
 
 {% macro article_info(page) %}
 <div class="article-info">
-      <strong>{{ page.date | date(format="%Y %B %d %H:%M") }}</strong>
+      <strong>{{ page.date | date(format="%Y %B %d") }}</strong>
       <span class="readtime">{{page.reading_time}} minute read</span>
       {% if page.taxonomies.tags %}
       {% for tag in page.taxonomies.tags %}
