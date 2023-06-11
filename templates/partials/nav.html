@@ -1,6 +1,6 @@
 <header>
   <nav>
-    <a href="/" class="navitem"> {{config.title}}</a>
+    <a href="/" class="navitem">{{config.title}}</a>
     {% for menu in config.extra.menu %}
     <a href="{{ menu.url }}" class="navitem">{{ menu.name }}</a>
     {% endfor %}
