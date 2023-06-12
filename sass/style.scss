@@ -173,6 +173,12 @@ article img {
     height: auto;
     margin: 0 auto .5em;
 }
+article video {
+    max-width: 80%;
+    display: block;
+    height: auto;
+    margin: 0 auto .5em;
+}
 
 footer {
     border-top: thin solid #f1f1f1;
