@@ -2,7 +2,8 @@
 title: "Masters subject"
 date: 2022-02-13T11:02:56+01:00
 draft: false
-tags: ["generative art", "creative coding"]
+taxonomies:
+    tags: ["creative coding"]
 ---
 
 I found another couple of interesting images from my masters.

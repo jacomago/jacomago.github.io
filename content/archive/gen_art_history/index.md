@@ -2,7 +2,8 @@
 title: "Beginning Generative Art"
 date: 2022-02-04T11:02:56+01:00
 draft: false
-tags: ["generative art"]
+taxonomies:
+    tags: ["creative coding"]
 ---
 
 Recently I started making generative art with [nannou](http://nannou.org).
