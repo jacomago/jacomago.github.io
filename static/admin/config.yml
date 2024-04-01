@@ -3,6 +3,7 @@ backend:
   repo: jacomago/jacomago.github.io # Path to your GitHub repository
   # optional, defaults to master
   # branch: main
+  site_domain: e38bdf92-f083-4395-966d-cbb172a0c4e5
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
