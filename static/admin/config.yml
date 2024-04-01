@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: jacomago/jacomago.github.io # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
