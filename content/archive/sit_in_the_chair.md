@@ -6,7 +6,7 @@ taxonomies:
     tags: ["writing"]
 ---
 
-You've got to sit in the chair. 
+You've got to sit in the chair.
 
 For the past year, I've been trying write a good book. At first, I tried without external help. No teacher, no course, no writing group. Me and the blank piece of paper. I found it gruelling. I got better. I wrote four or five short stories and the first twenty thousand words plus of two books, which sounds like a lot to me now. Now that I realise how hard it is. But back then, it felt like failure. 
 
