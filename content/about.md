@@ -2,4 +2,4 @@
 title = "About"
 +++
 
-This is my blog.
+Blog about my adventures in trying to create createive things, usually combined with some technology.
