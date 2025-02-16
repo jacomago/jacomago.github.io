@@ -4,7 +4,6 @@ pages_build_output_dir = "public"
 compatibility_date = "2023-06-11"
 
 [env.production.vars]
-ZOLA_VERSION = "0.17.2"
-
+UNSTABLE_PRE_BUILD="asdf plugin add zola https://github.com/salasrod/asdf-zola && asdf install zola 0.20.0 && asdf global zola 0.20.0"
 [env.preview.vars]
 UNSTABLE_PRE_BUILD="asdf plugin add zola https://github.com/salasrod/asdf-zola && asdf install zola 0.20.0 && asdf global zola 0.20.0"
