@@ -9,7 +9,7 @@ DIRECTIONS = [
 let baseImage;
 
 function preload() {
-  baseImage = loadImage("imgs/flowerex.png");
+  baseImage = loadImage("/archive/drafts/wfc/imgs/flowerex.png");
 }
 
 function imageHash(img) {
