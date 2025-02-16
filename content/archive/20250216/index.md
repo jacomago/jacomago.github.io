@@ -6,4 +6,4 @@ taxonomies:
     tags: ["creative coding"]
 ---
 p5 sketch for Genuary day 2.
- {{ sketchembed(path="sketch", width=700, height=800) }}
+ {{ sketchembed(path="/archive/20250216/sketch", width=700, height=800) }}
