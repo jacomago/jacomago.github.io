@@ -4,5 +4,6 @@ date: 2025-02-16
 draft: false
 taxonomies:
     tags: ["creative coding"]
+template: "sketch.html"
 ---
- {{ sketchembed(path="/sketches/20250216", width=700, height=800) }}
+ {{ p5sketch(path="/sketches/20250216/sketch.js") }}
