@@ -9,7 +9,6 @@
     <link rel="icon" href="/img/favicon.png" />
     <meta charset="utf-8" />
     <link rel="stylesheet" href="/style.css" />
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>{% block headtitle %}Blog{% endblock headtitle %} - {{config.title}}</title>
     <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
   </head>
@@ -19,19 +18,9 @@
     <section class="section">
       <div class="container">
         <h1 class="web-title"><span>{% block title %}{{config.title}}{% endblock title%}</span></h1>
-{% block content %} {% endblock %}</div>
+        {% block content %} {% endblock %}
+</div>
     </section>
     {% include "partials/footer.html" %}
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", (user) => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
   </body>
 </html>
