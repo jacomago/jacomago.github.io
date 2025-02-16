@@ -1,4 +1,7 @@
+
+
 <div id="sketch" style="cursor: move;">
-    <iframe src={{path}} {% if width %}width="{{width}}" {% endif %}{% if height %}height="{{height}}" {% endif %}
+    <iframe src={{path}} {% if width %}width="{{width}}" 
+    {% else %}width="700"{% endif %} {% if height %}height="{{height}}" {% else %}height="600"{% endif %}
         scrolling="no" frameborder="0"></iframe>
 </div>
