@@ -6,4 +6,4 @@ taxonomies:
     tags: ["creative coding"]
 template: "sketch.html"
 ---
- {{ p5sketch(path="/sketches/20250216/sketch.js") }}
+ {{ p5sketch(path="/archive/20250216/sketch/sketch.js") }}
