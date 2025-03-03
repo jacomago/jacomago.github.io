@@ -6,7 +6,7 @@ taxonomies:
   tags: ["Flutter", "coding", "Dart", "Story Stains"]
 ---
 
-Another post about building [Story Stains](https://github.com/jacomago/storystains), the previous one can be found at ["Story Stains: Backend"](@/archive/20220629/story_stains_backend/index.md).
+Another post about building [Story Stains](https://github.com/jacomago/storystains), the previous one can be found at ["Story Stains: Backend"](@/archive/2022/20220629-story_stains_backend/index.md).
 
 ## Flutter
 

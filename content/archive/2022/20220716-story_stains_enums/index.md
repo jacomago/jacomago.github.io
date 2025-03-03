@@ -6,7 +6,7 @@ taxonomies:
     tags: ["rust", "coding", "actix", "Story Stains", "Flutter"]
 ---
 
-Another post about building [Story Stains](https://github.com/jacomago/storystains), the previous one can be found at ["Story Stains: Frontend"](@/archive/20220708/story_stains_frontend/index.md).
+Another post about building [Story Stains](https://github.com/jacomago/storystains), the previous one can be found at ["Story Stains: Frontend"](@/archive/2022/20220708-story_stains_frontend/index.md).
 
 ## Enums
 
