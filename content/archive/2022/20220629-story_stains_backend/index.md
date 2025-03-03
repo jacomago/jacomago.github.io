@@ -6,7 +6,7 @@ taxonomies:
     tags: ["rust", "coding", "actix", "Story Stains"]
 ---
 
-Another post about building [Story Stains](https://github.com/jacomago/storystains), the previous one can be found at ["Story Stains: An Idea forms"](@/archive/20220621/story_stains_idea_forms/index.md).
+Another post about building [Story Stains](https://github.com/jacomago/storystains), the previous one can be found at ["Story Stains: An Idea forms"](@/archive/2022/20220621-story_stains_idea_forms/index.md).
 
 ## Rust
 
