@@ -1,12 +1,12 @@
 ---
-title: "Story Stains: Backend"
-date: 2022-06-29T11:53:48+02:00
+title: "Story Stains: The Backend"
+date: 2022-06-29T13:30:48+02:00
 draft: false
 taxonomies:
     tags: ["rust", "coding", "actix", "Story Stains"]
 ---
 
-Another post about building [Story Stains](https://github.com/jacomago/storystains), the previous one can be found at ["Story Stains: Idea Forms"](@/archive/2022/20220621-story_stains_idea_forms/index.md).
+Another post about building [Story Stains](https://github.com/jacomago/storystains), the previous one can be found at ["Story Stains: An Idea forms"](@/archive/20220621/story_stains_idea_forms/index.md).
 
 ## Rust
 

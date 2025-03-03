@@ -5,4 +5,4 @@ draft: false
 taxonomies:
     tags: ["creative coding"]
 ---
- {{ sketchembed(path="/archive/20250207/zerosv0") }}
+ {{ sketchembed(path="/archive/2025/20250207/zerosv0") }}

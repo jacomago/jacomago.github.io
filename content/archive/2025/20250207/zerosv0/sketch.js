@@ -7,7 +7,7 @@ let csvData
 // before it runs setup or draw!
 function preload() {
 
-  loadStrings("/archive/20250207/zerosv0/zetazeros.csv", handleData);
+  loadStrings("/archive/2025/20250207/zerosv0/zetazeros.csv", handleData);
 
 }
 function handleData(array) {

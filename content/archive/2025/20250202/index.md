@@ -6,7 +6,7 @@ taxonomies:
     tags: ["creative coding"]
 ---
 ## An example of some 3d code.
- {{ sketchembed(path="/archive/20250202/something3d") }}
+ {{ sketchembed(path="/archive/2025/20250202/something3d") }}
 
 ## Flow field with interaction.
- {{ sketchembed(path="/archive/20250202/flowfield") }}
+ {{ sketchembed(path="/archive/2025/20250202/flowfield") }}
