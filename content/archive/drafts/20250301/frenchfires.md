@@ -1,3 +1,8 @@
+---
+title: "French Fries"
+date: 2025-03-01
+draft: true
+---
 
 French Fries
 
